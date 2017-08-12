@@ -1,6 +1,5 @@
 Elixir App
 =======
-# ElixirApp
 
 To start your Phoenix app:
 
